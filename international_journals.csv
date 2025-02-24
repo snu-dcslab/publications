@@ -1,0 +1,106 @@
+author,title,booktitle,year,url
+Jieun Kim and Hyeonsang Eom and Yoonhee Kim,Analyzing Data Locality on GPU Caches Using Static Profiling of Workloads,IEEE Access,2023,https://doi.org/10.1109/ACCESS.2023.3307315
+Yunjae Lee and Heonyoung Yeom and Hyuck Han,APR: adaptive page replacement scheme for scientific applications,Cluster Computing,2023,https://doi.org/10.1007/s10586-021-03296-2
+Jiwoo Bang and Alexander Sim and Glenn Lockwood and Hyeonsang Eom and Hanul Sung,Design and Implementation of Burst Buffer Over-Subscription Scheme for HPC Storage Systems,IEEE Access,2023,https://doi.org/10.1109/ACCESS.2022.3233829
+Jiwoo Bang and Chungyong Kim and Eunkyu Byun and Hanul Sung and Jaehwan Lee and Hyeonsang Eom,Accelerating I/O performance of ZFS-based Lustre file system in HPC environment,The Journal of Supercomputing,2023,https://doi.org/10.1007/s11227-022-04966-7
+Dereje Regassa and Heonyoung Yeom and Yongseok Son,Harvesting the Aggregate Computing Power of Commodity of Computers for Supercomputing Applications,Applied Sciences,2022,https://doi.org/10.3390/app12105113
+Dongkyu Sung and Yongseok Son and Hyeonsang Eom and Sunggon Kim,Improving I/O performance via address remapping in NVMe interface,IEEE Access,2022,https://doi.org/10.1109/ACCESS.2022.3221733
+Mansub Song and Jongbeen Han and Hyeonsang Eom and Yongseok Son,IPFSz: An Efficient Data Compression Scheme in InterPlanetary File System,IEEE Access,2022,https://doi.org/10.1109/ACCESS.2022.3223107
+Hwajung Kim and Inhwi Hwang and Jeongeun Lee and Heonyoung Yeom and Hanul Sung,Concurrent and Robust End-to-End Data Integrity Verification Scheme for Flash-Based Storage Devices,IEEE Access,2022,https://doi.org/10.1109/ACCESS.2022.3163729
+Jake Choi and Hojun You and Chongam Kim and Heonyoung Yeom and Yoonhee Kim,"Comparing unified, pinned, and host/device memory allocations for memory-intensive workloads on Tegra SoC",Concurrency and Computation: Practice and Experience,2021,https://doi.org/10.1002/cpe.6018
+Igor Fontana de Nardin and Rodrigo da Rosa Righi and Thiago Roberto Lima Lopes and Cristiano André da Costa and Heonyoung Yeom and Harald Köstler,On revisiting energy and performance in microservices applications: A cloud elasticity-driven approach,Parallel Computing,2021,https://doi.org/10.1016/j.parco.2021.102858
+Hwajung Kim and Heonyoung Yeom and Hanul Sung,Understanding the Performance Characteristics of Computational Storage Drives: A Case Study with SmartSSD,Electronics,2021,https://doi.org/10.3390/electronics10212617
+Kwangjin Lee and Hwajung Kim and Heonyoung Yeom,Validity Tracking Based Log Management for In-Memory Databases,IEEE Access,2021,https://doi.org/10.1109/ACCESS.2021.3103862
+Hanul Sung and Jeesoo Min and Donghun Koo and Hyeonsang Eom,OMBM-ML: efficient memory bandwidth management for ensuring QoS and improving server utilization,Cluster Computing,2021,https://doi.org/10.1007/s10586-020-03191-2
+Kihyeon Myung and Sunggon Kim and Heonyoung Yeom and Jiwoong Park,Efficient and Scalable External Sort Framework for NVMe SSD,IEEE Transactions on Computers,2021,https://doi.org/10.1109/TC.2020.3041220
+Sunggon Kim and Jaehyun Han and Hyeonsang Eom and Yongseok Son,Improving I/O performance in distributed file systems for flash-based SSDs by access pattern reshaping,Future Generation Computer Systems,2021,https://doi.org/10.1016/j.future.2020.09.017
+Myoungwon Oh and Sujin Ha and Jinhyuk Yoon and Kangwon Lee and Yongseok Son and Heonyoung Yeom,Graph Learning BFT: A Design of Consensus System for Distributed Ledgers,IEEE Access,2020,https://doi.org/10.1109/ACCESS.2020.3021225
+Youngseok Son and Heonyoung Yeom and Hyuck Han,An Empirical Performance Evaluation of Transactional Solid-State Drives,IEEE Access,2020,https://doi.org/10.1109/ACCESS.2019.2960838
+Myoungwon Oh and Hanul Sung and Sanggeol Lee and Hyeonsang Eom and Heonyoung Yeom,A Methology for Improving the Performance of Paravirtual I/O Systems Based on Fast NVM Devices,Journal of Information Science \& Engineering,2020,
+Jiwoong Park and Heonyoung Yeom and Yongseok Son,Page Reusability-Based Cache Partitioning for Multi-Core Systems,IEEE Transactions on Computers,2020,https://doi.org/10.1109/TC.2020.2968066
+Hwajung Kim and Heonyoung Yeom and Yongseok Son,Design and implementation of an I/O isolation scheme for key-value store on multiple solid-state drives,Cluster Computing,2020,https://doi.org/10.1007/s10586-020-03161-8
+Yoonjae Lee and Yoonhee Kim and Heonyeong Yeom,Lightweight Memory Tracing for Hot Data Identification,Cluster Computing,2020,https://doi.org/10.1007/s10586-020-03130-1
+Sunggon Kim and Dongwhan Kim and Yongseok Son and Hyeonsang Eom,Towards predicting GPGPU performance for concurrent workloads in Multi-GPGPU environment,Cluster Computing,2020,https://doi.org/10.1007/s10586-020-03105-2
+Yongseok Son and Moonsub Kim and Sunggon Kim and Heonyoung Yeom and Namsung Kim and Hyuck Han,Design and Implementation of SSD-Assited Backup and Recovery for Database Systems,IEEE Transactions on Knowledge and Data Engineering,2020,https://doi.org/10.1109/TKDE.2018.2884466
+Jiwoong Park and Yongseok Son and Heonyoung Yeom and Yoonhee Kim,SoftDC: software-based dynamically connected transport,Cluster Computing,2020,https://doi.org/10.1007/s10586-019-02926-0
+Qichen Chen and Hyojeong Lee and Yoonhee Kim and Heon Yeom and Yongseok Son,Design and Implementation of Skiplist-based Key-Value Store on Non-volatile Memory,Cluster Computing,2019,https://doi.org/10.1007/s10586-019-02925-1
+Hanul Sung and Jeesoo Min and Sujin Ha and Hyeonsang Eom,OMBM: optimized memory bandwidth management for ensuring QoS and high server utilization,Cluster Computing,2019,https://doi.org/10.1007/s10586-018-2828-1
+Seongjae Park and Minchan Kim and Heonyoung Yeom,GCMA: Guaranteed Contiguous Memory Allocator,IEEE Transactions on Computers,2019,https://doi.org/10.1109/TC.2018.2869169
+Sunggon Kim and Hyeonsang Eom and Yongseok Son,Improving spatial locality in virtual machine for flash storage,IEEE Access,2019,https://doi.org/10.1109/ACCESS.2018.2886473
+Naeyoung Song and Hwajung Kim and Hyuck Han and Heonyoung Yeom,Optimizing of metadata management in large-scale file systems,Cluster Computing,2018,https://doi.org/10.1007/s10586-018-2814-7
+Hanul Sung and Myungsun Kim and Jeesoo Min and Hyeonsang Eom,OLM: online LLC management for container-based cloud service,The Journal of Supercomputing,2018,https://doi.org/10.1007/s11227-017-2181-9
+Yongseok Son and Heonyoung Yeom and Hyuck Han,Design and implementation of an efficient flushing scheme for cloud key-value storage,Cluster Computing,2017,
+Yongseok Son and Naeyoung Song and Heonyoung Yeom and Hyuck Han,A low-latency storage stack for fast storage devices,Cluster Computing,2017,
+Yongseok Son and Heonyoung Yeom and Hyuck Han,Optimizing I/O operations in file systems for fast storage devices,IEEE Transactions on Computers,2017,
+Yoonsung Nam and Minkyu Kang and Hanul Sung and Jincheol Kim and Hyeonsang Eom,Workload-aware resource management for software-defined compute,Cluster Computing,2016,https://dx.doi.org/10.1007/s10586-016-0613-6
+Yongseok Son and Hara Kang and Hyuck Han and Heonyoung Yeom,An empirical evaluation and analysis of the performance of NVM express solid state drive,Cluster Computing,2016,https://dx.doi.org/10.1007/s10586-016-0591-8
+Naeyoung Song and Yongseok Son and Hyuck Han and Heonyoung Yeom,Efficient Memory-Mapped I/O on Fast Storage Device(Annual Best of Computing Award),ACM Transactions on Storage,2016,https://doi.acm.org/10.1145/2846100
+Yongseok Son and Naeyoung Song and Hyuck Han and Hyeonsang Eom and Heonyoung Yeom,Design and evaluation of a user-level file system for fast storage devices,Cluster Computing,2015,https://dx.doi.org/10.1007/s10586-015-0465-5
+Hyungsoo Jung and Hyuck Han and Alan Fekete and Gernot Heiser and Heonyoung Yeom,A Scalable Lock Manager for Multicores,ACM Transactions on Database Systems,2014,https://doi.acm.org/10.1145/2691190.2691192
+Youngjin Yu and Dongin Shin and Woong Shin and Naeyoung Song and Jaewoo Choi and Hyeongseog Kim and Hyeonsang Eom and Heonyoung Yeom,Optimizing the Block I/O Subsystem for Fast Storage Devices,ACM Transactions on Computer Systems,2014,https://doi.acm.org/10.1145/2619092
+Sehoon Park and Qichen Chen and Hyuck Han and Heonyoung Yeom,Design and Evaluation of Mobile Offloading System for Web-centric Devices,Journal of Network and Computer Applications,2014,https://dx.doi.org/10.1016/j.jnca.2013.08.006
+Reza Entezari-Maleki and Ali Mohammadkhan and Heonyoung Yeom and Ali Movaghar,Combined performance and availability analysis of distributed resources in grid computing,The Journal of Supercomputing,2014,https://dx.doi.org/10.1007/s11227-014-1184-z
+Jae Woo Choi and Dong In Shin and Young Jin Yu and Hyeonsang Eom and Heonyoung Yeom,Towards High-Performance SAN with Fast Storage Devices,ACM Transactions on Storage,2014,https://doi.acm.org/10.1145/2577385
+Shin-gyu Kim and Hyeonsang Eom and Heonyoung Yeom and Sanglyul Min,Energy-centric DVFS controlling method for multi-core platforms,Computing,2014,https://dx.doi.org/10.1007/s00607-013-0369-2
+Shin-gyu Kim and Hyeonsang Eom and Heonyoung Yeom,Virtual machine consolidation based on interference modeling,The Journal of Supercomputing,2013,https://dx.doi.org/10.1007/s11227-013-0939-2
+Insoon Jo and Imyoung Jung and Heonyoung Yeom,Efficient Classification Scheme for Detecting Malicious Websites,International Information Institute (Tokyo). Information,2013,
+Dongyou Seo and Shingyu Kim and Hyeonsang Eom and Heonyoung Yeom,Performance Evaluation of CPU-GPU communication Depending on the Characteristic of Co-Located Workloads,International Journal on Computer Science and Engineering,2013,
+Hyungsoo Jung and Hyuck Han and Alan Fekete and Gernot Heiser and Heonyoung Yeom,A Scalable Lock Manager for Multicores,Proceedings of the 2013 ACM SIGMOD International Conference on Management of Data,2013,https://doi.acm.org/10.1145/2463676.2465271
+Hyeongseog Kim and Dongin Shin and Youngjin Yu and Hyeonsang Eom and Heonyoung Yeom,Systematic Approach of Using Power Save Mode for Cloud Data Processing Services,International Journal of Ad Hoc and Ubiquitous Computing,2012,https://dx.doi.org/10.1504/IJAHUC.2012.048258
+Chanho Choi and Shin-gyu Kim and Hyeonsang Eom and Heonyoung Yeom,Improving Throughput in Cloud Storage System,International Journal on Computer Science and Engineering,2012,
+Sunjoo Oh and Heonyoung Yeom,A Comprehensive Framework for the Evaluation of Ontology Modularization,Expert Systems with Applications,2012,https://dx.doi.org/10.1016/j.eswa.2012.01.129
+Eunsung Kim and Hyeonsang Eom and Heonyoung Yeom,Asymmetry-aware load balancing for parallel applications in single-ISA multi-core systems,Journal of Zhejiang University SCIENCE C,2012,https://dx.doi.org/10.1631/jzus.C1100198
+Hyuck Han and Young Choon Lee and Woong Shin and Hyungsoo Jung and Heonyoung Yeom and Albert Zomaya,Cashing in on the Cache in the Cloud,"Parallel and Distributed Systems, IEEE Transactions on",2012,
+Seungmi Choi and Shingyu Kim and Hyuck Han and Heonyoung Yeom,Improving Performance of MapReduce Framework on InterCloud by Avoiding Transmission of Unnecessary Data,ACM SIGMETRICS Performance Evaluation Review,2011,https://doi.acm.org/10.1145/2160803.2160875
+Shingyu Kim and Junghee Won and Hyuck Han and Hyeonsang Eom and Heonyoung Yeom,Improving Hadoop Performance in Intercloud Environments,ACM SIGMETRICS Performance Evaluation Review,2011,https://doi.acm.org/10.1145/2160803.2160873
+Hyuck Han and Hyungsoo Jung and Sooyong Kang and Heonyoung Yeom,Performance evaluation of a remote memory system with commodity hardware for large-memory data processing,Cluster Computing,2011,https://dx.doi.org/10.1007/s10586-011-0164-9
+Hyuck Han and Hyungsoo Jung and Heonyoung Yeom,Aspect-oriented development of cluster computing software,Cluster Computing,2011,https://dx.doi.org/10.1007/s10586-011-0166-7
+Hyungsoo Jung and Hyuck Han and Heonyoung Yeom and Sooyong Kang,Athanasia: A User-Transparent and Fault-Tolerant System for Parallel Applications,IEEE Transactions on Parallel and Distributed Systems,2011,
+Dongin Shin and Youngjin Yu and Hyeongseog Kim and Hyeonsang Eom and Heonyoung Yeom,Request Bridging and Interleaving: Improving the Performance of Small Synchronous Updates Under Seek-Optimizing Disk Subsystems,ACM Transactions on Storage,2011,https://doi.acm.org/10.1145/1970348.1970349
+Hyuck Han and Hyungsoo Jung and Hyeonsang Eom and Heonyoung Yeom,Scatter-Gather-Merge: An efficient star-join query processing algorithm for data-parallel frameworks,Cluster Computing,2011,https://dx.doi.org/10.1007/s10586-010-0144-5
+Im Y Jung and Heonyoung Yeom,Provenance security guarantee from origin up to now in the e-Science environment,Journal of Systems Architecture,2011,
+Young Jin Yu and Dong In Shin and Hyeong Seog Kim and Hyeonsang Eom and Heonyoung Yeom,Backup Metadata As Data: DPC-Tolerance to Commodity File System,Journal of Information Science and Engineering,2011,
+Shin-gyu Kim and Hyuck Han and Hyung-soo Jung and Hyeon-sang Eom and Heonyoung Yeom,Improving mapreduce performance by exploiting input redundancy,Journal of information science and engineering,2011,
+Hyuck Han and Shinkyu Kim and Hyungsoo Jung and Heonyoung Yeom and Yong-woo Lee and Sooyong Kang,A High-Voltage Electron Microscope Control System based on Grid Infrastructure,INFORMATION-AN INTERNATIONAL INTERDISCIPLINARY JOURNAL,2011,
+Hyuck Han and Hyungsoo Jung and Hyeonsang Eom and Heonyoung Yeom,An efficient skyline framework for matchmaking applications,Journal of Network and Computer Applications,2011,
+Hyeong S Kim and Eunjin Jung and Heonyoung Yeom,"ELiSyR: Efficient, Lightweight and Sybil-Resilient File Search in P2P Networks",KSII Transactions on Internet and Information Systems (TIIS),2010,
+Hyunjoo Kim and Heonyoung Yeom and Sooyong Kang and Youjip Won,Inter-Object Layer Clustering for scalable video streaming,Multimedia Tools and Applications,2010,
+Hyungsoo Jung and Shin-gyu Kim and Heonyoung Yeom and Sooyong Kang,TCP-GT: A new approach to congestion control based on goodput and throughput,"Communications and Networks, Journal of",2010,
+Hyungsoo Jung and Heonyoung Yeom,A practical single-register wait-free mutual exclusion algorithm on asynchronous networks,Euro-Par 2006 Parallel Processing,2006,
+Hyungsoo Jung and Hyuck Han and Heonyoung Yeom and Sooyong Kang,CPS: Operating system architecture for efficient network resource management with control-theoretic packet scheduler,"Communications and Networks, Journal of",2010,
+Young Jin Yu and Dong In Shin and Hyeonsang Eom and Heonyoung Yeom,NCQ vs. I/O scheduler: Preventing unexpected misbehaviors,ACM Transactions on Storage (TOS),2010,
+Hyungsoo Jung and Hyuck Han and Heonyoung Yeom and Sooyong Kang,A fast and progressive algorithm for skyline queries with totally-and partially-ordered domains,Journal of Systems and Software,2010,
+Im Y Jung and Heonyoung Yeom,Enhanced security for online exams using group cryptography,"Education, IEEE Transactions on",2009,
+Hyunjoo Kim and Heonyoung Yeom,Dynamic scheme transition adaptable to variable video popularity in a digital broadcast network,"Multimedia, IEEE Transactions on",2009,
+Hyunjoon Jung and Hyuck Han and Hyungsoo Jung and Heonyoung Yeom,Dynamic and fine-grained authentication and authorisation for grid computing,International Journal of Critical Infrastructures,2008,
+Hyunjoo Kim and Heonyoung Yeom,P-chaining: a practical VoD service scheme autonomically handling interactive operations,Multimedia Tools and Applications,2008,
+Il Hwan Kim and Heonyoung Yeom,Oversized Subnet and Shared NAT: A Practical Approach to Keep Private and Public IP Addresses Together,IJCSNS,2006,
+Jin-wook Baek and Heonyoung Yeom,A timed mobile agent planning approach for distributed information retrieval in dynamic network environments,Information sciences,2006,
+Jin B Kwon and Jeong B Lee and Kee W Rim and Heonyoung Yeom,Adaptive channel management scheme for video broadcasting services,"Consumer Electronics, IEEE Transactions on",2006,
+Jin B Kwon and Heonyoung Yeom,Adjustable broadcast protocol for large-scale near-video-on-demand systems,Computer communications,2005,
+Jinwook Baek and Jaeheung Yeo and Gyutae Kim and Heonyoung Yeom,CEMAP: Cost-effective mobile agent planning,International Journal of Cooperative Information Systems,2004,
+Jinbaek Kwon and Heonyoung Yeom,Generalized data retrieval for pyramid-based periodic broadcasting of videos,Future Generation Computer Systems,2004,
+Lee Inseon and Park Taesoon and others,A new approach for distributed main memory database systems: a causal commit protocol,IEICE TRANSACTIONS on Information and Systems,2004,
+Sooyong Kang and Heonyoung Yeom,A New Block Fetching Scheme Considering Traffic Smoothing in Multimedia Servers,Multimedia Tools and Applications,2004,
+Woo Namyoon and Heonyoung Yeom and Park Taesoon and Park Hyungwoo,MPICH-GF: Transparent checkpointing and rollback-recovery for grid-enabled MPI processes,IEICE transactions on information and systems,2004,
+Sooyong Kang and Hyunjoo Kim and Heonyoung Yeom,A framework for fault-tolerant peer-to-peer streaming service based on the service migration,International Journal of Computer Systems Science \& Engineering,2004,
+Jaeheung Yeo and Heonyoung Yeom and Taesoon Park,An asynchronous protocol for release consistent distributed shared memory systems,The Journal of Supercomputing,2003,
+Taesoon Park and Namyoon Woo and Heonyoung Yeom,An efficient recovery scheme for fault-tolerant mobile computing systems,Future Generation Computer Systems,2003,
+Jinwook Baek and Heonyoung Yeom,d-Agent: an approach to mobile agent planning for distributed information retrieval,"Consumer Electronics, IEEE Transactions on",2003,
+Kyungoh Lee and Yoonyoung Park and Heonyoung Yeom,Pre-emptive but safe interval caching for real-time multimedia systems,Computer Systems Science and Engineering,2003,
+Jinbaek Kwon and Heonyoung Yeom,A statistical admission control scheme for continuous media servers using caching,Multimedia Tools and Applications,2003,
+Sooyong Kang and Heonyoung Yeom,Storing continuous media objects to multizone recording disks using multirate smoothing technique,"Multimedia, IEEE Transactions on",2003,
+Sooyong Kang and Heonyoung Yeom,Modeling the caching effect in continuous media servers,Multimedia Tools and Applications,2003,
+Sooyong Kang and Heonyoung Yeom,Aggregated smoothing: Considering all streams simultaneously for transmission of variable-bit-rate encoded video objects,"Communications and Networks, Journal of",2003,
+Jinbaek Kwon and Heonyoung Yeom,VCR-oriented video broadcasting for near video-on-demand services,"Consumer Electronics, IEEE Transactions on",2003,
+Jinbaek Kwon and Heonyoung Yeom,Providing VCR functionality in staggered video broadcasting,"Consumer Electronics, IEEE Transactions on",2002,
+Taesoon Park and Inseon Lee and Heonyoung Yeom,An efficient causal logging scheme for recoverable distributed shared memory systems,Parallel Computing,2002,
+Taesoon Park and Namyoon Woo and Heonyoung Yeom,An efficient optimistic message logging scheme for recoverable mobile computing systems,IEEE Transactions on Mobile Computing,2002,
+Taesoon Park and Heonyoung Yeom,A Low Overhead Logging Scheme for Fast Recovery in Distributed Shared Memory Systems,The Journal of Supercomputing,2000,
+Taesoon Park and Heonyoung Yeom,Application controlled checkpointing coordination for fault-tolerant distributed computing systems,Parallel Computing,2000,
+Byoungjoo Lee and Taesoon Park and Yookun Cho and Heonyoung Yeom and Yookun Cho,On the impossibility of non-blocking consistent causal recovery,IEICE Transactions on Information and Systems,2000,
+Taesoon Park and Heonyoung Yeom,An efficient logging and recovery scheme for lazy release consistent distributed shared memory systems,Future Generation Computer Systems,2000,
+Sooyong Kang and Heonyoung Yeom,Transmission of video streams with constant bandwidth allocation,Computer Communications,1999,
+Kyungoh Lee and Heonyoung Yeom,An effective admission control mechanism for variable-bit-rate video streams,Multimedia Systems,1999,
+Taesoon Park and Heonyoung Yeom,Dependency Tracking for Efficient Recoverable Distributed Shared Memory System,,1998,
+Kyung Oh Lee and Heonyoung Yeom,A dynamic scheduling algorithm for large scale multimedia servers,Information processing letters,1998,
