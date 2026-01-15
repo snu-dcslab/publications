@@ -1,7 +1,7 @@
 author,title,booktitle,year,url,abbreviation,KIISE,BK
 Inhwi Hwang and Sangjin Lee and Sunggon Kim and Hyeonsang Eom and Yongseok Son,Z-LFS: A Zoned Namespace-tailored Log-structured File System for Commodity Small-zone ZNS SSDs,2025 USENIX Annual Technical Conference,2025,https://www.usenix.org/conference/atc25/presentation/hwang,ATC,Top-tier,3
 Jinyong Ha and Sangjin Lee and Hyeonsang Eom and Yongseok Son,ScaleLFS: A Log-Structured File System with Scalable Garbage Collection for Commodity SSDs,23rd USENIX Conference on File and Storage Technologies,2025,https://www.usenix.org/conference/fast25/presentation/ha,FAST,Top-tier,3
-Seokwon Choi and Hyeonsang Eom,HeteroScheduler: Dynamic Task Scheduling for CPU-GPU Optimization and Contention Mitigation in Cloud Data Centers,2025 IEEE 18th International Conference on Cloud Computing (CLOUD),2025,https://ieeexplore.ieee.org/abstract/document/11120554?casa_token=PTCinRMAiKMAAAAA:yNze9ecBT8Y4XbG3FnnoR2klBRlM-PPJBQ7I1KcYQY_pNmIrAaHz3ODXU3BJ7w_MYChExnY8,CLOUD,,1
+Seokwon Choi and Hyeonsang Eom,HeteroScheduler: Dynamic Task Scheduling for CPU-GPU Optimization and Contention Mitigation in Cloud Data Centers,2025 IEEE 18th International Conference on Cloud Computing (CLOUD),2025,https://ieeexplore.ieee.org/abstract/document/11120554?casa_token=PTCinRMAiKMAAAAA:yNze9ecBT8Y4XbG3FnnoR2klBRlM-PPJBQ7I1KcYQY_pNmIrAaHz3ODXU3BJ7w_MYChExnY8,CLOUD,Major,1
 Byoungchul An and Hanul Sung and Hyeonsang Eom,A2L: User-Transparent Workload-Adaptive Asynchronous I/O Layer,Proceedings of the 25rd International Middleware Conference Industrial Track,2024,https://middleware-conf.github.io/2024/,Middleware,Major,2
 Mansub Song and Hyojin Song and Nadine Ben Amar and Yunhyeong Seo and Yongseok Son and Hyeonsang Eom,Microcosm: A Scalable Transaction Processing Scheme for Modular Blockchain,Proceedings of the 25rd International Middleware Conference Industrial Track,2024,https://middleware-conf.github.io/2024/,Middleware,Major,2
 Jinyong Ha and Sangjin Lee and Heonyoung Yeom and Yongseok Son,RL-Watchdog: A Fast and Predictable SSD Liveness Watchdog on Storage Systems,2024 USENIX Annual Technical Conference,2024,https://www.usenix.org/conference/atc24/presentation/ha,ATC,Top-tier,3
@@ -178,4 +178,5 @@ Heonyoung Yeom and Sooyong Kang and Taesoon Park,An efficient transmission mecha
 Heonyoung Yeom and Jungsoo Ha and Ilhwan Kim,IP Multiplexing by Transparent Port-Address Translator,Proceedings of the 10th USENIX Conference on System Administration,1996,http://dl.acm.org/citation.cfm?id=1029824.1029844,LISA,,
 Inseon Lee and Hyogun Lee and Joonwon and Heonyoung Yeom,An Analysis of Deadlock Detection Schemes in Multidatabase Systems,,1996,,,,
 Taesoon Park and Sungbok Cho and Heonyoung Yeom,An improved logging and checkpointing scheme for recoverable distributed shared memory,Second Asian Computing Science Conference,1996,http://dx.doi.org/10.1007/BFb0027781,ASIAN,,
+
 
