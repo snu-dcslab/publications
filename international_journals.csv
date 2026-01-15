@@ -1,4 +1,9 @@
 author,title,booktitle,year,url
+Seongwan Park and Bosul Mon and Seungyun Lee and Woojin Jeong and Jaewook Lee and Hyeonsang Eom and Huisu Jang,Impact of EIP-4844 on Ethereum: Consensus Security, Ethereum Usage, Rollup Transaction Dynamics, and Blob Gas Fee Markets,IEEE Transactions on Network Science and Engineering,2025,https://ieeexplore.ieee.org/document/11108700
+Seokwon Choi and Hyeonsang Eom,Markov Chain-Based Resource-Efficient and QoS-Aware Scheduling for Latency-Critical and Best-Effort Tasks,IEEE Access,2025,https://ieeexplore.ieee.org/document/10896639
+Cheongjun Lee and Jaehwan Lee and Donghun Koo and Chungyong Kim and Jiwoo Bang and Eunkyu Byun and Hyeonsang Eom,Towards enhanced I/O performance of a highly integrated many-core processor by empirical analysis,Cluster Computing,2023,https://link.springer.com/article/10.1007/s10586-021-03288-2
+Cheongjun Lee and Jaehwan Lee and Chungyong Kim and Jiwoo Bang and Eunkyu Byun and Hyeonsang Eom,I/O separation scheme on Lustre metadata server based on multi-stream SSD,Cluster Computing,2023,https://link.springer.com/article/10.1007/s10586-022-03801-1
+Jongbeen Han and Hyeonsang Eom and Yongseok Son,Design and Implementation of an Efficient VM Scheduling Framework for Interactive Streaming Service,Cluster Computing,2023,https://link.springer.com/article/10.1007/s10586-022-03762-5
 Jieun Kim and Hyeonsang Eom and Yoonhee Kim,Analyzing Data Locality on GPU Caches Using Static Profiling of Workloads,IEEE Access,2023,https://doi.org/10.1109/ACCESS.2023.3307315
 Yunjae Lee and Heonyoung Yeom and Hyuck Han,APR: adaptive page replacement scheme for scientific applications,Cluster Computing,2023,https://doi.org/10.1007/s10586-021-03296-2
 Jiwoo Bang and Alexander Sim and Glenn Lockwood and Hyeonsang Eom and Hanul Sung,Design and Implementation of Burst Buffer Over-Subscription Scheme for HPC Storage Systems,IEEE Access,2023,https://doi.org/10.1109/ACCESS.2022.3233829
@@ -104,3 +109,4 @@ Sooyong Kang and Heonyoung Yeom,Transmission of video streams with constant band
 Kyungoh Lee and Heonyoung Yeom,An effective admission control mechanism for variable-bit-rate video streams,Multimedia Systems,1999,
 Taesoon Park and Heonyoung Yeom,Dependency Tracking for Efficient Recoverable Distributed Shared Memory System,,1998,
 Kyung Oh Lee and Heonyoung Yeom,A dynamic scheduling algorithm for large scale multimedia servers,Information processing letters,1998,
+
