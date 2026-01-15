@@ -1,5 +1,5 @@
 author,title,booktitle,year,url
-Seongwan Park and Bosul Mon and Seungyun Lee and Woojin Jeong and Jaewook Lee and Hyeonsang Eom and Huisu Jang,Impact of EIP-4844 on Ethereum: Consensus Security, Ethereum Usage, Rollup Transaction Dynamics, and Blob Gas Fee Markets,IEEE Transactions on Network Science and Engineering,2025,https://ieeexplore.ieee.org/document/11108700
+Seongwan Park and Bosul Mon and Seungyun Lee and Woojin Jeong and Jaewook Lee and Hyeonsang Eom and Huisu Jang,Impact of EIP-4844 on Ethereum: Consensus Security Ethereum Usage Rollup Transaction Dynamics and Blob Gas Fee Markets,IEEE Transactions on Network Science and Engineering,2025,https://ieeexplore.ieee.org/document/11108700
 Seokwon Choi and Hyeonsang Eom,Markov Chain-Based Resource-Efficient and QoS-Aware Scheduling for Latency-Critical and Best-Effort Tasks,IEEE Access,2025,https://ieeexplore.ieee.org/document/10896639
 Cheongjun Lee and Jaehwan Lee and Donghun Koo and Chungyong Kim and Jiwoo Bang and Eunkyu Byun and Hyeonsang Eom,Towards enhanced I/O performance of a highly integrated many-core processor by empirical analysis,Cluster Computing,2023,https://link.springer.com/article/10.1007/s10586-021-03288-2
 Cheongjun Lee and Jaehwan Lee and Chungyong Kim and Jiwoo Bang and Eunkyu Byun and Hyeonsang Eom,I/O separation scheme on Lustre metadata server based on multi-stream SSD,Cluster Computing,2023,https://link.springer.com/article/10.1007/s10586-022-03801-1
@@ -109,4 +109,5 @@ Sooyong Kang and Heonyoung Yeom,Transmission of video streams with constant band
 Kyungoh Lee and Heonyoung Yeom,An effective admission control mechanism for variable-bit-rate video streams,Multimedia Systems,1999,
 Taesoon Park and Heonyoung Yeom,Dependency Tracking for Efficient Recoverable Distributed Shared Memory System,,1998,
 Kyung Oh Lee and Heonyoung Yeom,A dynamic scheduling algorithm for large scale multimedia servers,Information processing letters,1998,
+
 
